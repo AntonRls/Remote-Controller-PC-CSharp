@@ -1,0 +1,11 @@
+C:\App3\RemotePcControllerHost\bin\Debug\RemotePcControllerHost.exe.config
+C:\App3\RemotePcControllerHost\bin\Debug\RemotePcControllerHost.exe
+C:\App3\RemotePcControllerHost\bin\Debug\RemotePcControllerHost.pdb
+C:\App3\RemotePcControllerHost\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\App3\RemotePcControllerHost\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\App3\RemotePcControllerHost\bin\Debug\System.ValueTuple.dll
+C:\App3\RemotePcControllerHost\obj\Debug\RemotePcControllerHost.csproj.AssemblyReference.cache
+C:\App3\RemotePcControllerHost\obj\Debug\RemotePcControllerHost.csproj.CoreCompileInputs.cache
+C:\App3\RemotePcControllerHost\obj\Debug\RemotePcControllerHost.csproj.CopyComplete
+C:\App3\RemotePcControllerHost\obj\Debug\RemotePcControllerHost.exe
+C:\App3\RemotePcControllerHost\obj\Debug\RemotePcControllerHost.pdb

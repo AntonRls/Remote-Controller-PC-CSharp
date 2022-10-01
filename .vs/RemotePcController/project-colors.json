@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "be707c51-62c5-462f-a97c-a89781053906": {
+      "ProjectGuid": "be707c51-62c5-462f-a97c-a89781053906",
+      "DisplayName": "RemotePcControllerClient",
+      "ColorIndex": 0
+    },
+    "c14eeead-2d23-433c-a6da-0745140e11c3": {
+      "ProjectGuid": "c14eeead-2d23-433c-a6da-0745140e11c3",
+      "DisplayName": "RemotePcControllerHost",
+      "ColorIndex": 1
+    },
+    "7948e6dd-f769-4077-bc81-f86b29a69490": {
+      "ProjectGuid": "7948e6dd-f769-4077-bc81-f86b29a69490",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

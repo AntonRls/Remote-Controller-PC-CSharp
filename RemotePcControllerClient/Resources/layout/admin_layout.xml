@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+     
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView1" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextMessage"
+            android:hint="Текст сообщения"
+        />
+        <Button
+            android:text="Отправить сообщение"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SendButton"/>
+       
+        <Button
+            android:text="Сделать скриншот"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/CreateScreenShotButton"
+        />
+        <ImageView
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewScreenShot" />
+   
+             <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextNameOpenApp"
+        
+                android:hint="Название приложения"/>
+          <Button
+            android:text="Открыть приложение"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/OpenAppButton"
+            />
+             <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextNameCloseApp"
+        
+                android:hint="Название приложения"/>
+          <Button
+            android:text="Закрыть приложение"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/CloseAppButton"
+            />
+               <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextNameDirectory"
+        
+                android:hint="Название/Директория папки"/>
+          <Button
+            android:text="Создать папку"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/CreateDirectoryButton"
+            />
+             <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextNameFile"
+        
+                android:hint="Название/Путь файла"/>
+          <Button
+            android:text="Создать файл"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/CreateFileButton"
+            />
+              <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextDeltaMoveCursor"
+                android:inputType="number"
+            android:hint="Длина перемещения курсора"/>
+            <Button
+            android:text="Переместить влево"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/LeftMoveCursorButton"
+            />
+             <Button
+            android:text="Переместить вправо"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RightMoveCursorButton"
+            />
+             <Button
+            android:text="Переместить вверх"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/UpMoveCursorButton"
+            />
+             <Button
+            android:text="Переместить вниз"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/DownMoveCursorButton"
+            />
+           <Button
+            android:text="Зажать ЛКМ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/DownLeftMouseButton"
+            />
+           <Button
+            android:text="Отжать ЛКМ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/UpLeftMouseButton"
+            />
+                <Button
+            android:text="Клик ЛКМ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ClickLeftMouseButton"
+            />
+              <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextInput"
+            android:hint="Текст ввода"/>
+              <Button
+            android:text="Ввести текст на ПК"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/InputToKeyboardButton"
+            />
+            
+        </LinearLayout>
+    </ScrollView>
+
+    
+</LinearLayout>

@@ -1,0 +1,12 @@
+C:\App3\RemotePcControllerHost\bin\Release\RemotePcControllerHost.exe.config
+C:\App3\RemotePcControllerHost\bin\Release\RemotePcControllerHost.exe
+C:\App3\RemotePcControllerHost\bin\Release\RemotePcControllerHost.pdb
+C:\App3\RemotePcControllerHost\obj\Release\RemotePcControllerHost.csproj.AssemblyReference.cache
+C:\App3\RemotePcControllerHost\obj\Release\RemotePcControllerHost.csproj.SuggestedBindingRedirects.cache
+C:\App3\RemotePcControllerHost\obj\Release\RemotePcControllerHost.csproj.CoreCompileInputs.cache
+C:\App3\RemotePcControllerHost\obj\Release\RemotePcControllerHost.exe
+C:\App3\RemotePcControllerHost\obj\Release\RemotePcControllerHost.pdb
+C:\App3\RemotePcControllerHost\bin\Release\System.ValueTuple.dll
+C:\App3\RemotePcControllerHost\obj\Release\RemotePcControllerHost.csproj.CopyComplete
+C:\App3\RemotePcControllerHost\bin\Release\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\App3\RemotePcControllerHost\bin\Release\Microsoft.Toolkit.Uwp.Notifications.pdb
